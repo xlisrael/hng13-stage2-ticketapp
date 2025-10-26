@@ -62,3 +62,4 @@ This application enables users to:
    ```bash
    git clone https://github.com/xlisrael/hng13-stage2-ticketapp.git
    cd hng13-stage2-ticketapp
+   npm run dev
